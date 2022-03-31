@@ -2,13 +2,13 @@
 a{
   text-align: center;
 }
-a:hover
-{
-  background-color: white;
-}
 body
 {
   overflow: scroll;
+}
+a:hover
+{
+  background-color: white;
 }
 .container-fluid
 {
