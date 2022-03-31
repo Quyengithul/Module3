@@ -2,6 +2,10 @@
 a{
   text-align: center;
 }
+.down
+{
+  overflow: scroll;
+}
 .container-fluid
 {
   background-color: #999999;
